@@ -14,6 +14,6 @@ Integrantes:
 - Thaysa Borges de Lima Santos
 - Rafaela Clementino Pereira Caro
 
-## Distribuição dos exercícios para a equipe:
+## Distribuição dos exercícios:
 
-![image](https://github.com/user-attachments/assets/d03e5694-2241-4d52-b7fe-bfe50534d959)
+![image](https://github.com/user-attachments/assets/6d5230e4-b5b0-4f13-9052-26f099966939)
